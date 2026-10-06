@@ -22,19 +22,19 @@ I build web and mobile apps end to end: database design, APIs, interfaces, and d
 
 ## 🚀 Featured Projects
 
-**[SMLD: Discipleship & Training Platform]**
+**[SMLD: Discipleship & Training Platform](https://github.com/SteveMungai/SMLD_learning_platform)**
 Full-stack platform for CITAM's Claycity Cohort with role-based dashboards for students, instructors, and admins, plus question and grading workflows. Next.js, Prisma, Supabase, NextAuth, Tailwind.
 
-**[NestQuest: Student Accommodation Finder]**
+**[NestQuest: Student Accommodation Finder](https://github.com/Student-Accomodation-Finder/Student-Accommodation-Finder)**
 MERN-stack group project with a roommate-matching feature and compatibility quiz. CI/CD through GitHub Actions, deployed to GitHub Pages.
 
-**[Escrow Platform for Freelancers]**
+**[Escrow Platform for Freelancers](https://github.com/SteveMungai/Escrow_app)**
 Escrow system for social media freelancers: clients fund a job, and payment is released only when the work is approved. React, Vite, Python.
 
-**[SecurePay Lend: P2P Lending]**
+**[P2P Lending](https://github.com/SteveMungai/P2P-Lending-app)**
 Peer-to-peer lending platform for Kenyan MSMEs. PostgreSQL-backed, work in progress.
 
-**[E-commerce Clothing Store]**
+**[E-commerce Clothing Store](https://github.com/SteveMungai/wadrobewave)**
 
 
 ## 🔧 What I Work On
@@ -50,4 +50,4 @@ Peer-to-peer lending platform for Kenyan MSMEs. PostgreSQL-backed, work in progr
 
 ## 📫 Get in Touch
 
-- LinkedIn: 
+- LinkedIn: [https://www.linkedin.com/in/steve-mungai/]
